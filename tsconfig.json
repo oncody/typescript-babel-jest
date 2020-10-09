@@ -1,9 +1,6 @@
 {
   "compilerOptions": {
-    "noEmit": true,
-    "strict": true,
-    "isolatedModules": true,
-    "esModuleInterop": true
+    "noEmit": true
   },
   "include": [
     "src"
