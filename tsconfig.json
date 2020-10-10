@@ -1,12 +1,4 @@
 {
-  "compilerOptions": {
-    "noEmit": true,
-    "isolatedModules": true,
-    "lib": ["ES6"]
-  },
-  "include": [
-    "src"
-  ],
   "exclude": [
     "**/*.test.ts"
   ]

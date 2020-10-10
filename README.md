@@ -1,2 +1,2 @@
 # typescript-babel
-typescript with babel
+typescript with jest
